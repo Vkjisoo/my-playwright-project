@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Vkjisoo/my-playwright-project/issues"
   },
-  "homepage": "https://github.com/Vkjisoo/my-playwright-project#readme"
+  "homepage": "https://github.com/Vkjisoo/my-playwright-project#readme",
+  "dependencies": {
+    "@playwright/test": "^1.51.0"
+  }
 }
